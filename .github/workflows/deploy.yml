@@ -9,26 +9,24 @@ permissions:
 contents: write
 
 jobs:
-deploy:
-runs-on: ubuntu-latest
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-```
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+      - name: Install mdBook
+        run: |
+          curl -L https://github.com/rust-lang/mdBook/releases/latest/download/mdbook-linux-amd64.tar.gz | tar xz
+          sudo mv mdbook /usr/local/bin/
 
-  - name: Install mdBook
-    run: |
-      curl -L https://github.com/rust-lang/mdBook/releases/latest/download/mdbook-linux-amd64.tar.gz | tar xz
-      sudo mv mdbook /usr/local/bin/
+      - name: Build
+        run: mdbook build
 
-  - name: Build
-    run: mdbook build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          publish_dir: ./book
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Deploy
-    uses: peaceiris/actions-gh-pages@v4
-    with:
-      publish_dir: ./book
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-```
 
