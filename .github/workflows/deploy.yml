@@ -1,12 +1,12 @@
 name: Deploy mdBook
 
 on:
-push:
-branches:
-- main
+  push:
+    branches:
+      - main
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
   deploy:
