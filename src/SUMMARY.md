@@ -11,3 +11,5 @@
 - [Is AI smart? yes](./ai-smart.md)
 - [Life as a dream](./life-as-dream.md)
 - [song bird](./夜莺.md)
+- [work in future](./aphyr_work_zh.md)
+- [changes](./changes.md)
