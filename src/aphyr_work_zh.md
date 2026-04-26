@@ -6,21 +6,6 @@
 
 ---
 
-*这是一篇长文，因此我将其拆分为一系列文章，如下所列。你也可以阅读完整作品的 [PDF](https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf) 或 [EPUB](https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.epub) 版本。*
-
-1. [引言](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
-2. [动态](https://aphyr.com/posts/412-the-future-of-everything-is-lies-i-guess-dynamics)
-3. [文化](https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture)
-4. [信息生态](https://aphyr.com/posts/414-the-future-of-everything-is-lies-i-guess-information-ecology)
-5. [烦恼](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
-6. [心理危害](https://aphyr.com/posts/416-the-future-of-everything-is-lies-i-guess-psychological-hazards)
-7. [安全](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
-8. [工作](https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work)
-9. [新工作](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs)
-10. [我们将何去何从](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
-
----
-
 *上一篇：[安全](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)。*
 
 软件开发可能会（至少在某些方面）变得更像巫术而非工程。当前对"AI 同事"的热情是荒谬的。自动化可能会矛盾地使系统变得更不稳健；当我们将机器学习应用于新领域时，我们将不得不面对技能退化、自动化偏见、监控疲劳和接管风险等问题。AI 吹鼓手们认为机器学习将在短时间内取代大量行业的劳动力；如果他们是对的，我们将面临艰难的时期。机器学习似乎很可能进一步将财富和权力集中在大型科技公司手中，而我不认为给亚马逊等公司更多的钱会带来全民基本收入。
