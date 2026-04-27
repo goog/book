@@ -1,6 +1,8 @@
 
 >But something happens when you add up small changes none of which matter. The total matters, even if none of the parts did. You look up one day and the place you live has become a different place. Not better, not worse. Different. And you realise you did not choose any of the changes. They happened while you were looking the other way, and now they are your life.
 
+![莫言直播间截图](images/112724.jpg)
+
 变化一切在变。  
 变化在发生，不会询问你接受与否。  
 AI来了之后一部分程序员和搞音乐的工作变得不重要了。  
