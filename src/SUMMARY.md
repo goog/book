@@ -13,3 +13,4 @@
 - [song bird](./夜莺.md)
 - [work in future](./aphyr_work_zh.md)
 - [changes](./changes.md)
+- [consciousness](./consciousness.md)
