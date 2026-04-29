@@ -14,3 +14,4 @@
 - [work in future](./aphyr_work_zh.md)
 - [changes](./changes.md)
 - [consciousness](./consciousness.md)
+- [AI节目观后感](./guoyu-ai-show.md)
