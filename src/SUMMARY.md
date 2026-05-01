@@ -15,3 +15,4 @@
 - [changes](./changes.md)
 - [consciousness](./consciousness.md)
 - [AI节目观后感](./guoyu-ai-show.md)
+- [赌不懂概率就是蠢](./kelly-criterion.md)
