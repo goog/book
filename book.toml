@@ -3,3 +3,7 @@ title = "some stories"
 authors = ["machbook.club"]
 description = "他也许可以写点真东西"
 language = "en"
+
+[output.html]
+mathjax-support = true
+
