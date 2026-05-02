@@ -17,3 +17,4 @@
 - [AI节目观后感](./guoyu-ai-show.md)
 - [赌不懂概率就是蠢](./kelly-criterion.md)
 - [learn in dream](./learn-in-sleep.md)
+- [does AI have emotion?](./emotion.md)
