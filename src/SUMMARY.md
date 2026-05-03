@@ -18,3 +18,4 @@
 - [赌不懂概率就是蠢](./kelly-criterion.md)
 - [learn in dream](./learn-in-sleep.md)
 - [does AI have emotion?](./emotion.md)
+- [红衫AI访谈--Karpathy](./Andrej-Karpathy.md)
