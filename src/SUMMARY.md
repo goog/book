@@ -19,3 +19,4 @@
 - [learn in dream](./learn-in-sleep.md)
 - [does AI have emotion?](./emotion.md)
 - [红衫AI访谈--Karpathy](./Andrej-Karpathy.md)
+- [也许你生活在纳什均衡场里面？](./nash-equilibrium.md)
