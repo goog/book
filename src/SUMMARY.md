@@ -20,4 +20,5 @@
 - [does AI have emotion?](./emotion.md)
 - [红衫AI访谈--Karpathy](./Andrej-Karpathy.md)
 - [也许你生活在纳什均衡场里面？](./nash-equilibrium.md)
-- [agent接管了传统的电脑之后你会不会回到封建社会？](./lost-job.md)
+- [Agent接管了传统的电脑之后你会不会回到封建社会？](./lost-job.md)
+- [赶紧制定AI法规吧](./ai-law.md)
