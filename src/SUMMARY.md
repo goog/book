@@ -22,3 +22,4 @@
 - [也许你生活在纳什均衡场里面？](./nash-equilibrium.md)
 - [Agent接管了传统的电脑之后你会不会回到封建社会？](./lost-job.md)
 - [赶紧制定AI法规吧](./ai-law.md)
+- [AI有没有动机？](./where-smart-comes.md)
