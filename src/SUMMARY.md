@@ -24,3 +24,4 @@
 - [赶紧制定AI法规吧](./ai-law.md)
 - [AI有没有动机？](./where-smart-comes.md)
 - [how does AI agent evolve](./evolve.md)
+- [2026环境有没有改变](./risk.md)
