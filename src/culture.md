@@ -62,8 +62,10 @@
 >[季羡林](https://zhida.zhihu.com/search?content_id=237894615&content_type=Article&match_order=1&q=%E5%AD%A3%E7%BE%A1%E6%9E%97&zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3NzkxMDI5MjQsInEiOiLlraPnvqHmnpciLCJ6aGlkYV9zb3VyY2UiOiJlbnRpdHkiLCJjb250ZW50X2lkIjoyMzc4OTQ2MTUsImNvbnRlbnRfdHlwZSI6IkFydGljbGUiLCJtYXRjaF9vcmRlciI6MSwiemRfdG9rZW4iOm51bGx9.wlIpR2MnC10EQPvOZ1w9M-AI__bLfINcgFYjYqW3NX0&zhida_source=entity)先生说：“大多数的人来到世上都是凑数的。为了一口吃的，天天奔波操劳，绞尽脑汁各种算计，无非就是让自己的饭碗稍微大一点。看看大多数人的一生，其实和飞禽走兽也没有什么区别。如果硬要说贡献的话，最大的贡献就是传宗接代，让这个世界又多了一些凑数了。至于流芳百世或者遗臭万年，普通人员想也别想，活着的时候都籍籍无名，百年之后更是尘归尘土归土。老婆孩子热炕头，努力让自己过得好一点是矣。”
 
 
-在这里99.9%的人是无用的，为了吃饭吧了。 
-我不是贬低他们，这是有人民没有什么权力、福利、制度和文化环境决定的。 
+在这里95%的人基本是无用的，为了吃饱饭吧了。 
+我不是贬低他们，这是由人民没有什么权力、福利、制度和文化环境决定的。  
+他们也非常不团结 也就能在混蛋的网络里面口嗨一下  
 非常多的制度法律法规对普通人都不利，法制是不公平的没有落实的没有保障的。  
 不是底层人民可以选择的。无奈感叹！  
-有时网络信息是毒药，老是谈技术好怎么了有前途。有一天你会发现一味追求技术的多半是穷人家的孩子。他们在了解社会的运行方面非常落后。
+感觉没有什么进步  普通人被禁言和权力个人各种打压霍霍。可能没有多少人性了  
+我从来没有参与选举，所以市长是谁选出来的 应该不是人民 市长名字也不知道。
