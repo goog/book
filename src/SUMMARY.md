@@ -26,3 +26,4 @@
 - [how does AI agent evolve](./evolve.md)
 - [2026环境有没有改变](./risk.md)
 - [culture](./culture.md)
+- [The Art of Money Getting](./money-getting.md)
