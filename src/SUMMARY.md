@@ -27,3 +27,4 @@
 - [2026环境有没有改变](./risk.md)
 - [culture](./culture.md)
 - [The Art of Money Getting](./money-getting.md)
+- [关于煤矿工人的故事](./coal-worker.md)
