@@ -30,3 +30,4 @@
 - [关于煤矿工人的故事](./coal-worker.md) 
 - [不健康的环境会帮你选择](./test.md)
 - [202606长沙](./k457.md)
+- [AI PROJECT DEMO](./ai-project.md)
