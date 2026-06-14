@@ -1,0 +1,7 @@
+- n.machbook.club 利用coze可以自动摘取newsletter
+- 想利用resend做newsletter审核不通过哈哈哈
+- 现在国外的注册好像变得严格了
+- 打算基于nodejs开发一个agent 一个普通的agent配合一个code-review工具就行其他的不重要。然后mimo送的一个月会员但是突然不跟随指令了感觉用这个免费的tp搞不了。
+- Mastra这个项目初步看有点意思，不过我在windows运行两个demo都没有跑通。如果可以也许那天可以出个demo。
+
+比如你用不上fable5 在工程上可能会落后一些。但是如果你有几个smart people的现在的ai还是不那么行。你可以认为它是一个非常会抄作业的人但是思考还不是很够。对国内的homework copy打击很大。
