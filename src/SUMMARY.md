@@ -32,3 +32,5 @@
 - [202606长沙](./k457.md)
 - [AI PROJECT DEMO](./ai-project.md)
 - [no token no develop?](./last-week.md)
+- [学习TypeScript Day1](./typescript-tooling-in-5-minutes.md)
+- [学习TypeScript Day2](./ts-ch02.md)
